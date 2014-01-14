@@ -15,4 +15,3 @@ In this repository you can find some useful libraries:
 - A small log class using the libc
 - IOCompletionPort messaging system
 - Registry and inifiles access classes
-- 
